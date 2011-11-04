@@ -60,6 +60,7 @@ editing the connection for your contact details in the format:
 
 consumer_key:consumer_secret:access_token:access_secret
 
+Add as many twitter contacts as you like!
 """
 
 from rapidsms.backends.base import BackendBase
